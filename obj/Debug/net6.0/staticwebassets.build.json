@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FKekbzKX6U+KGcXoNhyfCGbaQgj0MGOdFbPlPWg4qRA=",
+  "Source": "tg-server",
+  "BasePath": "_content/tg-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
